@@ -1,0 +1,13 @@
+[user]
+	name = Sytantris Dyat
+	email = sytantris@gmail.com
+[color]
+	ui = true
+[credential]
+	helper = osxkeychain
+[push]
+  default = current
+[merge]
+  defaultToUpstream = true
+[core]
+  excludesfile = ~/.gitignore
