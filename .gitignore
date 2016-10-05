@@ -4,7 +4,10 @@
 *.class
 *.pyc
 
-# os
+# generated files
 *.sw*
+.Trashes
+.DS_Store
 
+# don't accidentally ignore .gitignore
 !.gitignore
